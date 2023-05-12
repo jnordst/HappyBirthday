@@ -13,3 +13,5 @@
 - Automatically uses information from the spreadsheet to fill in information
 - First Name / Last Name / Last Visit Date 
 ![image](https://github.com/jnordst/HappyBirthday/assets/12515630/b955535b-14d7-494e-ba07-405c327bc5ec)
+
+Jacob Nordstrom | April 2023
